@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inclusive Sans', sans-serif;
+    background-repeat: no-repeat;
     background: linear-gradient(70deg, blue, purple, pink);
 }
 
